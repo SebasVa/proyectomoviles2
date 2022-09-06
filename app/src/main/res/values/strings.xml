@@ -1,5 +1,11 @@
 <resources>
-    <string name="app_name">Proyecto2B</string>
+    <string name="app_name">Bici Map</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="btnInicioSesion">Iniciar Sesión</string>
+    <string name="btnRegistrarUsuario">Registrarse</string>
+    <string name="txtNombreNuevoUsuario">Usuario</string>
+    <string name="txtEmailUsuario">Email</string>
+    <string name="txtPasswordUsuario">Contraseña</string>
+    <string name="txtConfPassUsuario">Confirmar contraseña</string>
 </resources>
