@@ -16,7 +16,7 @@ corredores, saber la geolocalización de los demás miembros de su equipo de dep
 
 Link al video de la explicación técnica y funcionalidad: https://www.youtube.com/watch?v=7jslgZkEOQ8
 
-Link al video de el manual de usuario: 
+Link al video de el manual de usuario: https://youtu.be/7kOx1MvZH3Q
 
 Link de la tienda de aplicaciones: https://bici-map.es.aptoide.com/?store_name=desaplimovi&app_id=63084266
 
